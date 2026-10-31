@@ -4,7 +4,7 @@
 
 ---
 
-## My Tech Ecosystem
+## Hobby Ecosystem
 
 ### Languages & Databases
 
