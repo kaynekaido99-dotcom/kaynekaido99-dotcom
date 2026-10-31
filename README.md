@@ -43,7 +43,7 @@
 
 ## Connect with Me
 
-<a href="https://github.com/afighi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/kaynekaido99-dotcom"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.facebook.com/bokie.porteza"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 <div align="center"><sub>Design with purpose. Develop with precision.</sub></div>
