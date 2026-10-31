@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="cat.gif" width="100%" alt="Dogs Banner">
-</p>
+![Pixel Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ5bmNqNW9pYnJyc2RjOHR4N2tpaTVwZ2lydDVsODQ4bm93YXQ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 ---
 
