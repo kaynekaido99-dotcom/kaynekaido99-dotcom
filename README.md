@@ -1,6 +1,4 @@
-<img width="800" height="400" alt="bokie_matrix" src="https://github.com/user-attachments/assets/ca016696-7ff2-4bd4-b27e-ab545a18ccfc" />
 
-![Vibing Cat](https://i.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
 ![Pixel Cat Typing](https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ---
@@ -41,6 +39,8 @@
 ![React Native](https://img.shields.io/badge/React_Native-18181B?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
+<img width="720" height="360" alt="bokie_matrix" src="https://github.com/user-attachments/assets/6ea2a81b-a8f5-4a09-98c5-4d89d53a57ca" />
+
 
 ## Connect with Me
 
