@@ -1,4 +1,4 @@
-![Pixel Cat Typing](https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Cute Pixel Cat](https://i.giphy.com/media/sIIhZliB2McAo/giphy.gif)
 
 ---
 
