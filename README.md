@@ -39,7 +39,8 @@
 ![React Native](https://img.shields.io/badge/React_Native-18181B?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
-<img width="720" height="360" alt="bokie_matrix" src="https://github.com/user-attachments/assets/6ea2a81b-a8f5-4a09-98c5-4d89d53a57ca" />
+<img width="720" height="360" alt="bokie_matrix" src="https://github.com/user-attachments/assets/e3f4f397-902d-419f-8422-1c548ad86673" />
+
 
 
 ## Connect with Me
