@@ -1,3 +1,4 @@
+<img width="800" height="400" alt="bokie_matrix" src="https://github.com/user-attachments/assets/ca016696-7ff2-4bd4-b27e-ab545a18ccfc" />
 ![Vibing Cat](https://i.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
 ![Pixel Cat Typing](https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
