@@ -1,4 +1,4 @@
-![Cute Pixel Cat](https://i.giphy.com/media/sIIhZliB2McAo/giphy.gif)
+![Vibing Cat](https://i.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
 
 ---
 
