@@ -1,4 +1,4 @@
-![Pixel Cat](./assets/pixel-cat.gif)
+![Pixel Cat Typing](https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ---
 
