@@ -1,9 +1,9 @@
 
-![Pixel Cat Typing](https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
 ---
-
 ## Hobby Ecosystem
+
+
+![Pixel Cat Typing](https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ### Languages & Databases
 
